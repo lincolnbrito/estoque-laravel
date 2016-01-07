@@ -1,9 +1,6 @@
 ## Controle de Estoque
 
-Aplicação de exemplo do Livro: PHP e Laravel Crie aplicações web como um verdadeiro artesão
-Rodrigo Turini
-Editora Casa do Código
-
+Aplicação de exemplo do [Livro: PHP e Laravel Crie aplicações web como um verdadeiro artesão](http://www.casadocodigo.com.br/products/livro-laravel-php)
 Laravel 5.0
 
 ## Laravel PHP Framework
