@@ -30,4 +30,9 @@ class ProdutosController extends Controller
 
         return view('produto.detalhes',['p' => $resposta[0]]);
     }
+
+    public function novo()
+    {
+        return view('produto.formulario');
+    }
 }
